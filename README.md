@@ -27,26 +27,26 @@ The dataset contains 500 records related to car sales.
 ## Project Workflow
 The project follows this major steps:
 
- Data Collection
+1. Data Collection
       | 
- Data Loading
+2. Data Loading
       |
- Data Cleaning
+ 3.Data Cleaning
       |
- Exploratory Data Analysis
+ 4.Exploratory Data Analysis
       |
- Data Visualization
+ 5.Data Visualization
       |
- Correlation Analysis
+ 6.Correlation Analysis
       |
- Feature Selection
+ 7.Feature Selection
       | 
- Train-Test Split
+ 8.Train-Test Split
       |
- Regression Model
+ 9.Regression Model
       |
- Model Evaluation
+ 10.Model Evaluation
       |
- Residual Analysis
+ 11.Residual Analysis
       |
  Conclusion
