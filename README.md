@@ -13,3 +13,14 @@ The objective is to analyze the relationship between different car-related varia
 - Build a regression model
 - Evaluate model performance
 - Analyze actual vs predicted values
+## Dataset
+The dataset contains 500 records related to car sales.
+## Technologies Used
+- Python
+- Jupyter Notebook
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Excel
