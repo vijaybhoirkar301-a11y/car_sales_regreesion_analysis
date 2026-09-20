@@ -81,4 +81,11 @@ The analysis demonstrates how regression techniques can be applied to car sales 
 
 
 Future improvements can include additional data, advanced machine-learning models, feature engineering and deployment as an interactive application.
+plt.figure(figsize=(10,6))
 
+sns.histplot(df["Sales"], kde=True)
+
+plt.title("Distribution of Car Sales")
+plt.xlabel("Sales")
+plt.ylabel("Frequency")
+plt.show()
