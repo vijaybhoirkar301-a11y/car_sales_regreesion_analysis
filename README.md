@@ -39,3 +39,26 @@ The dataset contains 500 records related to car sales.
 12. Conclusion
 
 ## Visualizations
+car-sales-regression-analysis/
+│
+├── data/
+│   └── car_sales_regression_500_rows.xlsx
+│
+├── notebooks/
+│   └── car_sales_regression.ipynb
+│
+├── charts/
+│   ├── sales_distribution.png
+│   ├── correlation_heatmap.png
+│   ├── actual_vs_predicted.png
+│   ├── residual_plot.png
+│   ├── regression_coefficients.png
+│   ├── price_vs_sales.png
+│   └── categorical_analysis.png
+│
+├── report/
+│   └── Car_Sales_Regression_Report.pdf
+│
+├── README.md
+├── requirements.txt
+└── .gitignore
