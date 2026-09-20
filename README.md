@@ -1,9 +1,9 @@
 # car_sales_regreesion_analysis
 Car Sales Regression Analysis using Python and Machine Learning
 ## Introduction
-This project analyzes a car sales dataset using Python, exploratory data analysis, data visualization and regression analysis.
+This project analyzes car sales data using Python and regression analysis. The objective is to understand the relationship between different car-related variables and sales performance and to build a regression model that can predict the selected target variable.
 ## Problem Statement
-The objective is to analyze the relationship between different car-related variables and sales and develop a regression model for prediction.
+Car sales depend on several factors such as price, vehicle characteristics, customer preferences and other variables. Analyzing these factors can help identify relationships within the dataset and develop a predictive regression model.
 ## Objectives
 - Analyze car sales data
 - Clean and preprocess the dataset
