@@ -51,7 +51,9 @@ The project includes:
 - Regression coefficient chart
 
   ##summary statics(numeric column)
-  (<img width="1338" height="511" alt="Screenshot_21-9-2026_01947_" src="https://github.com/user-attachments/assets/6207798f-34e8-4945-857d-0a4429bcad09" />)
+
+<img width="2029" height="775" alt="ChatGPT Image Sep 21, 2026, 12_28_54 AM" src="https://github.com/user-attachments/assets/d3bffb77-ae62-4a44-8d95-e01e6206242e" />
+
 
 
 ## Model Evaluation
