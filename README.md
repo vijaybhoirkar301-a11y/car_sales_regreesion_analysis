@@ -54,19 +54,26 @@ The project includes:
 
 The model is evaluated using:
 
-- MAE
-- MSE
-- RMSE
-- R² Score
+MAE
+
+Average absolute prediction error.
+
+MSE
+
+Average squared prediction error.
+
+RMSE
+
+Square root of MSE; gives error in approximately the same unit as the target.
+
+R²
+
+Shows how much variation in the target is explained by the regression model.
 
 ## Conclusion
 
-The project demonstrates the application of Python-based exploratory analysis and regression techniques to car sales data.
-sns.heatmap(
-    df.corr(numeric_only=True),
-    annot=True,
-    cmap="coolwarm"
-)
+The car sales dataset was analyzed using Python and statistical and machine-learning techniques. Exploratory data analysis was performed to understand the distribution and relationships between variables. Correlation analysis and visualization helped identify relationships among the variables.
 
-plt.title("Correlation Heatmap")
-plt.show()
+A Linear Regression model was developed using selected independent variables to predict the target sales variable. The model was evaluated using MAE, MSE, RMSE and R² score. Actual versus predicted values and residual analysis were also performed to understand model performance.
+
+The analysis demonstrates how regression techniques can be applied to car sales data to identify relationships between variables and support data-driven analysis.
