@@ -24,3 +24,29 @@ The dataset contains 500 records related to car sales.
 - Seaborn
 - Scikit-learn
 - Excel
+## Project Workflow
+The project follows this major steps:
+
+ Data Collection
+      | 
+ Data Loading
+      |
+ Data Cleaning
+      |
+ Exploratory Data Analysis
+      |
+ Data Visualization
+      |
+ Correlation Analysis
+      |
+ Feature Selection
+      | 
+ Train-Test Split
+      |
+ Regression Model
+      |
+ Model Evaluation
+      |
+ Residual Analysis
+      |
+ Conclusion
