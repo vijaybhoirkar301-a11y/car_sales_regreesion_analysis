@@ -77,3 +77,12 @@ The car sales dataset was analyzed using Python and statistical and machine-lear
 A Linear Regression model was developed using selected independent variables to predict the target sales variable. The model was evaluated using MAE, MSE, RMSE and R² score. Actual versus predicted values and residual analysis were also performed to understand model performance.
 
 The analysis demonstrates how regression techniques can be applied to car sales data to identify relationships between variables and support data-driven analysis.
+## Future Scope
+Use a larger car sales dataset.
+Include additional customer and market variables.
+Compare Linear Regression with Random Forest and other algorithms.
+Perform feature selection and feature engineering.
+Apply cross-validation.
+Develop an interactive dashboard.
+Deploy the model as a web application.
+Continuously update the model using new sales da
