@@ -79,11 +79,6 @@ A Linear Regression model was developed using selected independent variables to 
 The analysis demonstrates how regression techniques can be applied to car sales data to identify relationships between variables and support data-driven analysis.
 ## Future Scope
 
--Use a larger car sales dataset.
--Include additional customer and market variables.
--Compare Linear Regression with Random Forest and other algorithms.
--Perform feature selection and feature engineering.
--Apply cross-validation.
--Develop an interactive dashboard.
--Deploy the model as a web application.
--Continuously update the model using new sales data.
+
+Future improvements can include additional data, advanced machine-learning models, feature engineering and deployment as an interactive application.
+
