@@ -25,9 +25,7 @@ The dataset contains 500 records related to car sales.
 - Scikit-learn
 - Excel
 ## Project Workflow
-The project follows this major steps:
-
-1.Data Collection
+1. Data Collection
 2. Data Loading
 3. Data Cleaning
 4. Exploratory Data Analysis
@@ -39,3 +37,5 @@ The project follows this major steps:
 10. Model Evaluation
 11. Residual Analysis
 12. Conclusion
+
+## Visualizations
