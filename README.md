@@ -39,9 +39,29 @@ The dataset contains 500 records related to car sales.
 12. Conclusion
 
 ## Visualizations
-## correlation Heatmap
-plt.figure(figsize=(12,8))
+The project includes:
 
+- Distribution charts
+- Correlation heatmap
+- Scatter plots
+- Regression plots
+- Box plots
+- Actual vs predicted chart
+- Residual plot
+- Regression coefficient chart
+
+## Model Evaluation
+
+The model is evaluated using:
+
+- MAE
+- MSE
+- RMSE
+- R² Score
+
+## Conclusion
+
+The project demonstrates the application of Python-based exploratory analysis and regression techniques to car sales data.
 sns.heatmap(
     df.corr(numeric_only=True),
     annot=True,
