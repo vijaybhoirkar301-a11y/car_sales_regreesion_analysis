@@ -50,6 +50,10 @@ The project includes:
 - Residual plot
 - Regression coefficient chart
 
+  ##summary statics(numeric column)
+  (<img width="1338" height="511" alt="Screenshot_21-9-2026_01947_" src="https://github.com/user-attachments/assets/6207798f-34e8-4945-857d-0a4429bcad09" />)
+
+
 ## Model Evaluation
 
 The model is evaluated using:
